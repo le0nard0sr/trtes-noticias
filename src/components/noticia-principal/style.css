@@ -1,0 +1,32 @@
+.noticia-principal {
+    display: flex;
+    padding: 10px;
+  }
+
+.noticia-principal-imagem {
+    width: 40%;
+}
+
+.noticia-principal-resumo {
+    padding: 0px 10px;
+}
+
+.noticia-principal-resumo-titulo {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: #003366;
+    line-height: 20px;
+    text-align: left;
+}
+  
+.noticia-principal-resumo-texto {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+    line-height: 20px;
+    height: 135px;
+    text-align: justify;
+    margin-top: 10px;
+}
